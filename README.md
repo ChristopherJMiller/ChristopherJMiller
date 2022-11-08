@@ -5,4 +5,4 @@
 - 📫 How to reach me: hello at chrismiller dot xyz 
 - 😄 Pronouns: he/they
 
-![Twitter Follow](https://img.shields.io/twitter/follow/FrogerWasTaken?style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109270428176475091?domain=https%3A%2F%2Ftech.lgbt&style=social)
